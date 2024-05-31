@@ -1,0 +1,11 @@
+release/enterwindow.o
+release/loginwindow.o
+release/main.o
+release/mainwindow.o
+release/pasbd.o
+release/passmanager_plugin_import.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_enterwindow.o
+release/moc_loginwindow.o
+release/moc_mainwindow.o
+release/moc_pasbd.o
